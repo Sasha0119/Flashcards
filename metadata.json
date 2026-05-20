@@ -1,0 +1,6 @@
+{
+  "name": "Kartochkalar Ilovasi",
+  "description": "Uzbek tilidagi zamonaviy va intellektual yodlash kartochkalari ilovasi. Kartochkalar yaratish, toifalarga ajratish, mashq qilish va natijalarni kuzatish imkoniyati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
